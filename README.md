@@ -1,8 +1,8 @@
-# Ilsa Naeem
+## Ilsa Naeem
 
 Software Engineering Student at Indus University with an interest in building user-centric and accessible web applications. Passionate about frontend development, artificial intelligence, and creating technology that makes a positive impact.
 
-## Technical Skills
+### Technical Skills
 - C
 - C++
 - Java
@@ -13,15 +13,15 @@ Software Engineering Student at Indus University with an interest in building us
 - React.js
 - MySQL
 
-## Areas of Interest
+### Areas of Interest
 - Frontend Development
 - Artificial Intelligence
 - Accessible and Inclusive Technology
 - Problem Solving and Software Design
 
-## Currently
+### Currently
 - Exploring modern web technologies and AI applications.
 - Building projects that focus on usability and accessibility.
 
-## Contact
+### Contact
 Email: ilsanaeem735@gmail.com
