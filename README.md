@@ -1,33 +1,27 @@
- Hi, I'm Ilsa Naeem 👋
+# Ilsa Naeem
 
-🎓 Final Year Software Engineering Student at Indus University
- React Developer
- Skills:
-1.C
+Software Engineering Student at Indus University with an interest in building user-centric and accessible web applications. Passionate about frontend development, artificial intelligence, and creating technology that makes a positive impact.
 
-2.C++
+## Technical Skills
+- C
+- C++
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- MySQL
 
-3.Java
+## Areas of Interest
+- Frontend Development
+- Artificial Intelligence
+- Accessible and Inclusive Technology
+- Problem Solving and Software Design
 
-4.HTML
+## Currently
+- Exploring modern web technologies and AI applications.
+- Building projects that focus on usability and accessibility.
 
-5.CSS
-
-6.JavaScript
-
-7.TypeScript
-
-8.React Js
-
-9. MySQL
-
-Interests:
-1. Web Development
-   
-2.Artificial Intelligence
-
-3.Accessibility and Inclusive Technology
-
-Currently working on projects related to Web Development and AI.
-
+## Contact
 Email: ilsanaeem735@gmail.com
